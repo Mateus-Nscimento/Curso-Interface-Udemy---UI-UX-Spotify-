@@ -8,8 +8,8 @@ Este projeto é uma recriação da interface do Spotify, utilizando o [Figma](ht
 
 **Demonstração**
 
-Segue link para visualização direta do projeto: [Link para o Figma](https://shre.ink/SpotifyCursoUdemy)  
-Link do repositório no GitHub: [Repositório GitHub](https://shre.ink/SpotifyCursoUdemy)
+Segue link para visualização direta do projeto: [Link para o Figma](https://shre.ink/CursoFigmaUdemy)  
+**Link para visualização do prótotipo:** [Link para visualizar o protótipo](https://shre.ink/CursoFigmaUdemyPrototipo)
 
 ---
 
