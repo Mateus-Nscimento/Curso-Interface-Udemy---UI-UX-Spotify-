@@ -20,12 +20,6 @@ Link do repositório no GitHub: [Repositório GitHub](https://shre.ink/SpotifyCu
 
 ---
 
-**Como Visualizar o Projeto**
-
-Para visualizar o projeto, basta acessar o arquivo .fig no Figma ou abrir o projeto no link acima.
-
----
-
 **Status do Projeto**
 
 - 🔴 **Em andamento**: No momento estou trabalhando na criação de um guia de estilos para o desenvolvimento da interface.
