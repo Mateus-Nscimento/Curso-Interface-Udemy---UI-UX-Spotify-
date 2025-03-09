@@ -1,6 +1,6 @@
 # Projeto de Aprendizado UI/UX Udemy - Recriação do Spotify
 
-**Descrição***
+# Descrição
 
 Este projeto é uma recriação da interface do Spotify, utilizando o [Figma](https://www.figma.com), para fins de aprendizado e prática de design de interfaces. A ideia é replicar a aparência e funcionalidades principais da plataforma, focando em sua usabilidade e design visual.
 
