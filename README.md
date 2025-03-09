@@ -16,7 +16,9 @@ Segue link para visualização do projeto: [Link para o projeto](https://shre.in
 **Tecnologias Utilizadas**
 
 - **[Figma](https://www.figma.com)**: Ferramenta de design de interfaces para criar o layout e os elementos visuais.
-- *(Caso o projeto avance para a parte de desenvolvimento, você pode incluir tecnologias como HTML, CSS, JavaScript, etc.)*
+- **[Typescale](https://typescale.com/)**: Ferramenta para fazer a escala das tipografias.
+- **[WCAG - ContrastCheker](https://contrastchecker.com/)**: Ferramenta usada para apurar o contraste das cores usadas.
+- **[Tint & Shade Generator](https://maketintsandshades.com/)**: Utilizado para criação e diversificação de paletas de cores.
 
 ---
 
