@@ -4,7 +4,7 @@
 
 Olá, sejam bem vindos ao meu projeto de aprendizado de design de interfaces!
 
-Decidi fazer este projeto afim de documentar minha jornada de aprendizado no curso de [Design de interfaces](https://www.udemy.com/course/figma-design-interfaces/?couponCode=KEEPLEARNINGBR)  no [Figma](https://www.figma.com), oferecido pela [Udemy](https://www.udemy.com/). Este projeto é voltado para fins de aprendizado e a prática de design de interfaces utilizando o , espero poder compartilhar a minha evolução e processo de aprendizado não somente do sofwtare, mas também de outras práticas do design gráfico. Ademais, é válido mencionar que este meu projeto não é filiado com o curso oficial ou com a própria Udemy, apenas pretendo compartilhar meu aprendizado e receber feedbacks para melhorias, espero que gostem de meu pequeno projeto. ^^
+Decidi fazer este projeto afim de documentar minha jornada de aprendizado no curso de [Design de interfaces](https://www.udemy.com/course/figma-design-interfaces/?couponCode=KEEPLEARNINGBR)  no [Figma](https://www.figma.com), oferecido pela plataforma online de cursos, a [Udemy](https://www.udemy.com/). Este projeto é voltado para fins de aprendizado e a prática de design de interfaces, espero poder compartilhar a minha evolução e processo de aprendizado não somente do sofwtare, mas também do design gráfico. Ademais, é válido mencionar que este meu projeto não é filiado com o curso oficial ou com a própria Udemy, este é um projeto pessoal e apenas pretendo compartilhar meu aprendizado e receber feedbacks para melhorias, espero que gostem de meu pequeno projeto. ^^
 
 ---
 
