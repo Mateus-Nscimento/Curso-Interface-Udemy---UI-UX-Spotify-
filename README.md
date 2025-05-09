@@ -26,7 +26,7 @@ Segue link para visualização do projeto: [Link para o projeto](https://shre.in
 
 **Status do Projeto**
 
-- 🔴 **Em andamento**: No momento estou trabalhando na criação de um guia de estilos para o desenvolvimento da interface.
+- 🟢 **Concluído**: O prótotipo de demonstração para o aprendizado do curso foi concluído de acordo com que fora apresentado durante o curso.
 
 ---
 
