@@ -41,5 +41,3 @@ Para explorar o design e o protótipo interativo deste projeto:
 ## Contexto do Desenvolvimento
 
 Este projeto foi desenvolvido como parte do curso de criação de interfaces UI/UX no Figma, ministrado na Udemy. O objetivo foi aplicar e praticar conceitos de design de interface, usabilidade e prototipagem através da recriação do programa de reprodução de músicas "Spotify". 
-
----
