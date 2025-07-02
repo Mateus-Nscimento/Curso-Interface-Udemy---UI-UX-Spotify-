@@ -15,6 +15,7 @@ O projeto "Clone Spotify" consistiu na recriação das funcionalidades e animaç
 
 ## Funcionalidades Principais
 
+* [Liste as funcionalidades chave do projeto. Exemplos:]
     * Interface de usuário otimizada para mobile/desktop.
     * Formulário de [orçamento/agendamento/cadastro].
     * Navegação intuitiva entre telas/seções.
