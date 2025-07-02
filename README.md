@@ -1,42 +1,52 @@
-# Projeto de Aprendizado UI/UX Udemy - Recriação do Spotify
+# Clone Spotify
 
-**Descrição**
+## Descrição do Projeto
 
-Olá, sejam bem vindos ao meu projeto de aprendizado de design de interfaces!
-
-Decidi fazer este projeto afim de documentar minha jornada de aprendizado no curso de [Design de interfaces](https://www.udemy.com/course/figma-design-interfaces/?couponCode=KEEPLEARNINGBR)  no [Figma](https://www.figma.com), oferecido pela plataforma online de cursos, a [Udemy](https://www.udemy.com/). Este projeto é voltado para fins de aprendizado e a prática de design de interfaces, espero poder compartilhar a minha evolução e processo de aprendizado não somente do sofwtare, mas também do design gráfico. Ademais, é válido mencionar que este meu projeto não é filiado com o curso oficial ou com a própria Udemy, este é um projeto pessoal e apenas pretendo compartilhar meu aprendizado e receber feedbacks para melhorias, espero que gostem de meu pequeno projeto. ^^
+[Breve descrição do projeto: qual o objetivo principal, o que ele faz, e qual foi o foco no desenvolvimento (ex: app mobile de rede social, landing page de agendamento, estudo de animações, recriação de interface existente).]
 
 ---
 
-**Demonstração**
+## Tecnologias/Ferramentas Utilizadas
 
-Segue link para visualização do projeto: [Link para o projeto](https://shre.ink/CursoFigmaUdemy)  
-**Link para visualização direta do prótotipo:** [Link para visualizar o protótipo](https://shre.ink/CursoFigmaUdemyPrototipo)
-
----
-
-**Tecnologias Utilizadas**
-
-- **[Figma](https://www.figma.com)**: Ferramenta de design de interfaces para criar o layout e os elementos visuais.
-- **[Typescale](https://typescale.com/)**: Ferramenta para fazer a escala das tipografias.
-- **[WCAG - ContrastCheker](https://contrastchecker.com/)**: Ferramenta usada para apurar o contraste das cores usadas.
-- **[Tint & Shade Generator](https://maketintsandshades.com/)**: Utilizado para criação e diversificação de paletas de cores.
+* **Figma:** Ferramenta principal utilizada para design de interface e prototipagem.
+    * *Mencione aqui qualquer outra ferramenta específica se usou (ex: alguma biblioteca de ícones, plugins do Figma, etc. - opcional).*
 
 ---
 
-**Status do Projeto**
+## Funcionalidades Principais
 
-- 🟢 **Concluído**: O prótotipo de demonstração para o aprendizado do curso foi concluído de acordo com que fora apresentado durante o curso.
+* [Liste as funcionalidades chave do projeto. Exemplos:]
+    * Interface de usuário otimizada para mobile/desktop.
+    * Formulário de [orçamento/agendamento/cadastro].
+    * Navegação intuitiva entre telas/seções.
+    * [Se aplicável: animações e transições específicas].
+    * [Se aplicável: reprodução de mídia/feed de notícias/listagem de tarefas].
 
 ---
 
-**Contribuições**
+## Como Visualizar o Projeto
 
-O projeto está aberto para sugestões, melhorias, dicas e críticas! Fique à vontade para abrir uma issue ou enviar um pull request!
+Para explorar o design e o protótipo interativo deste projeto:
+
+1.  **Acesse o Projeto no Figma:**
+    * Clique no link abaixo para visualizar o arquivo Figma original, onde você pode inspecionar camadas, estilos e componentes.
+    * [Link para o arquivo Figma do projeto]
+
+2.  **Interaja com o Protótipo:**
+    * Use o link direto para o protótipo do Figma para simular a interação com a interface como se fosse um aplicativo real.
+    * [Link para o protótipo direto do Figma para visualização]
 
 ---
 
-**Contato**
+## Contexto do Desenvolvimento
 
-- GitHub: [https://github.com/MateusL1sboa](https://github.com/MateusL1sboa)
-- LinkedIn: [https://www.linkedin.com/in/pablo-mateus-95a15a198/](https://www.linkedin.com/in/pablo-mateus-95a15a198/)
+Este projeto foi desenvolvido como parte do curso de criação de interfaces UI/UX no Figma, ministrado na Udemy. O objetivo foi aplicar e praticar conceitos de design de interface, usabilidade e prototipagem.
+
+---
+
+## Contato
+
+Conecte-se comigo:
+
+* **GitHub:** [Seu link do perfil GitHub, ex: `https://github.com/seu-usuario`]
+* **LinkedIn:** [Seu link do perfil LinkedIn, ex: `https://www.linkedin.com/in/seu-perfil`]
