@@ -29,11 +29,11 @@ Para explorar o design e o protótipo interativo deste projeto:
 
 1.  **Acesse o Projeto no Figma:**
     * Clique no link abaixo para visualizar o arquivo Figma original, onde você pode inspecionar camadas, estilos e componentes.
-    * [[Link para o arquivo Figma do projeto](https://shre.ink/CloneSpotify)]
+    * [Link para o arquivo Figma do projeto](https://shre.ink/CloneSpotify)]
 
 2.  **Interaja com o Protótipo:**
     * Use o link direto para o protótipo do Figma para simular a interação com a interface como se fosse um aplicativo real.
-    * [[Link para o protótipo direto do Figma para visualização](https://shre.ink/CloneSpotify-Prototipo)]
+    * [Link para o protótipo direto do Figma para visualização](https://shre.ink/CloneSpotify-Prototipo)]
       
 
 ---
