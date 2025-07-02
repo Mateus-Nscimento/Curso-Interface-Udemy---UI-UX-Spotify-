@@ -2,7 +2,7 @@
 
 ## Descrição do Projeto
 
-[Breve descrição do projeto: qual o objetivo principal, o que ele faz, e qual foi o foco no desenvolvimento (ex: app mobile de rede social, landing page de agendamento, estudo de animações, recriação de interface existente).]
+O projeto "Clone Spotify" consistiu na recriação das funcionalidades e animações da versão mobile do Spotify, nele há desde a tela de login/cadastro até a simulação de pesquisa por músicas e biblioteca.
 
 ---
 
@@ -15,7 +15,6 @@
 
 ## Funcionalidades Principais
 
-* [Liste as funcionalidades chave do projeto. Exemplos:]
     * Interface de usuário otimizada para mobile/desktop.
     * Formulário de [orçamento/agendamento/cadastro].
     * Navegação intuitiva entre telas/seções.
@@ -30,11 +29,12 @@ Para explorar o design e o protótipo interativo deste projeto:
 
 1.  **Acesse o Projeto no Figma:**
     * Clique no link abaixo para visualizar o arquivo Figma original, onde você pode inspecionar camadas, estilos e componentes.
-    * [Link para o arquivo Figma do projeto]
+    * [[Link para o arquivo Figma do projeto](https://shre.ink/CloneSpotify)]
 
 2.  **Interaja com o Protótipo:**
     * Use o link direto para o protótipo do Figma para simular a interação com a interface como se fosse um aplicativo real.
-    * [Link para o protótipo direto do Figma para visualização]
+    * [[Link para o protótipo direto do Figma para visualização](https://shre.ink/CloneSpotify-Prototipo)]
+      
 
 ---
 
