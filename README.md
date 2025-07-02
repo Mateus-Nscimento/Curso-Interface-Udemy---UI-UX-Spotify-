@@ -15,12 +15,11 @@ O projeto "Clone Spotify" consistiu na recriação das funcionalidades e animaç
 
 ## Funcionalidades Principais
 
-* [Liste as funcionalidades chave do projeto. Exemplos:]
-    * Interface de usuário otimizada para mobile/desktop.
-    * Formulário de [orçamento/agendamento/cadastro].
+    * Interface de usuário otimizada para mobile.
+    * Tela de login/cadastro.
     * Navegação intuitiva entre telas/seções.
-    * [Se aplicável: animações e transições específicas].
-    * [Se aplicável: reprodução de mídia/feed de notícias/listagem de tarefas].
+    * Simualação de biblioteca e playlist de músicas do spotify.
+    * Simulação de tela de busca por músicas com seções dedicadas.
 
 ---
 
@@ -41,13 +40,6 @@ Para explorar o design e o protótipo interativo deste projeto:
 
 ## Contexto do Desenvolvimento
 
-Este projeto foi desenvolvido como parte do curso de criação de interfaces UI/UX no Figma, ministrado na Udemy. O objetivo foi aplicar e praticar conceitos de design de interface, usabilidade e prototipagem.
+Este projeto foi desenvolvido como parte do curso de criação de interfaces UI/UX no Figma, ministrado na Udemy. O objetivo foi aplicar e praticar conceitos de design de interface, usabilidade e prototipagem através da recriação do programa de reprodução de músicas "Spotify". 
 
 ---
-
-## Contato
-
-Conecte-se comigo:
-
-* **GitHub:** [Seu link do perfil GitHub, ex: `https://github.com/seu-usuario`]
-* **LinkedIn:** [Seu link do perfil LinkedIn, ex: `https://www.linkedin.com/in/seu-perfil`]
